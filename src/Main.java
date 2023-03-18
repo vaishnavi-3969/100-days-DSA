@@ -12,6 +12,10 @@ public class Main {
                     Day1 day1 = new Day1();
                     day1.day1();
                     break;
+                case 2:
+                    Day2 day2 = new Day2();
+                    day2.day2();
+                    break;
                 default:
                     System.out.println("Invalid Input! :(");
                     break;
