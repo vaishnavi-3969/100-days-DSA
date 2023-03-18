@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcf2030d-ab79-4366-bdb1-271cf7517282" name="Changes" comment="percentage calculator">
-      <change afterPath="$PROJECT_DIR$/src/Day2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="dcf2030d-ab79-4366-bdb1-271cf7517282" name="Changes" comment="day 1 updatedd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679172987335</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day 1 updated">
+      <created>1679174975599</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679174975599</updated>
+    </task>
+    <task id="LOCAL-00006" summary="day 1 updatedd">
+      <created>1679175083058</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679175083058</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +126,8 @@
     <MESSAGE value="day1 intital" />
     <MESSAGE value="updated" />
     <MESSAGE value="percentage calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="percentage calculator" />
+    <MESSAGE value="day 1 updated" />
+    <MESSAGE value="day 1 updatedd" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 1 updatedd" />
   </component>
 </project>
