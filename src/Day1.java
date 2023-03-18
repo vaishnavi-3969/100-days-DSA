@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Day1 {
+    static Scanner scanner = new Scanner(System.in);
 /*    -----------------------------
     primitive data types:
     1. byte: -128 to 128
@@ -14,12 +15,7 @@ public class Day1 {
     ------------------------------
  */
 //    write a java program to add 3 nos.
-    public static int add(int a, int b, int c){
-        return a + b + c;
-    }
-
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public static void add(){
         System.out.println("Enter first no.: ");
         int a = scanner.nextInt();
         System.out.println("Enter second no.: ");
@@ -27,6 +23,71 @@ public class Day1 {
         System.out.println("Enter third no.: ");
         int c = scanner.nextInt();
         System.out.println("The addition of "+ a + ", "+b+" and "+c+" is: ");
-        System.out.println(add(a,b,c));
+        System.out.println(a+b+c);
+    }
+
+    public static void main(String[] args) {
+        int n = 1;
+        do{
+            System.out.println("------MENU-----\n");
+            System.out.println("1. Addition of 3 nos.\n" +
+                    "2. Percentage Calculator\n" +
+                    "3. Percentage Calculator with modification\n");
+            System.out.println("Enter your choice: ");
+            n = scanner.nextInt();
+            switch (n) {
+                case 1 -> add();
+                case 2 -> percentageCalc();
+                case 3 -> percentageCalculator();
+            }
+            System.out.println("Do you wish to continue? 0.Exit 1. Continue");
+            n = scanner.nextInt();
+        }while (n!=0);
+    }
+
+    public static void percentageCalculator() {
+        int sum = 0;
+        int marks = 0;
+        for(int i = 0; i< 6; i++){
+            System.out.println("Enter marks of subject "+(i+1)+":");
+            marks = scanner.nextInt();
+            do{
+                if(!validation(marks)){
+                    System.out.println("Entered value is incorrect! Re-enter marks of subject "+(i + 1));
+                    marks = scanner.nextInt();
+                }
+            }while(!validation(marks));
+            sum = sum + marks;
+        }
+        System.out.println("Total Percentage: "+(sum/6)+"%");
+    }
+    public static boolean validation(int marks){
+        if(marks<100 & marks > 0){
+            return true;
+        }else{
+            return false;
+        }
+    }
+
+    //    percentage calculator
+    public static void percentageCalc(){
+        System.out.println("Enter the marks of subject 1(Out of 100): ");
+        int subject1 = scanner.nextInt();
+        System.out.println("Enter the marks of subject 2(Out of 100): ");
+        int subject2 = scanner.nextInt();
+        System.out.println("Enter the marks of subject 3(Out of 100): ");
+        int subject3 = scanner.nextInt();
+        System.out.println("Enter the marks of subject 4(Out of 100): ");
+        int subject4 = scanner.nextInt();
+        System.out.println("Enter the marks of subject 5(Out of 100): ");
+        int subject5 = scanner.nextInt();
+        System.out.println("Enter the marks of subject 6(Out of 100): ");
+        int subject6 = scanner.nextInt();
+        if(subject1>100 || subject2 > 100 || subject3 > 100 || subject4 > 100 || subject5 > 100 || subject6 > 100){
+            System.out.println("Invalid Marks entered!");
+        }else{
+            System.out.println("Percentage: ");
+            System.out.println(((subject1 + subject2 + subject3 + subject4 + subject5 + subject6)/6)+"%");
+        }
     }
 }
