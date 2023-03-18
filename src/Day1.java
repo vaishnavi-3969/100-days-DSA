@@ -14,7 +14,36 @@ public class Day1 {
     8. Boolean: true/false; default: false
     ------------------------------
  */
-//    write a java program to add 3 nos.
+    public void day1() {
+        System.out.println("~~~---~~~---~~~---~~~---~~~---(START OF DAY-1)---~~~---~~~---~~~---~~~---~~~");
+        int n = 1;
+        do{
+            System.out.println("------MENU-----\n");
+            System.out.println("""
+                    1. Addition of 3 nos.
+                    2. Percentage Calculator
+                    3. Percentage Calculator with modification
+                    4. Check if the entered no. is integer
+                    5. Greet the guest!""");
+            System.out.println("Enter your choice: ");
+            n = scanner.nextInt();
+            switch (n) {
+                case 1 -> add();
+                case 2 -> percentageCalc();
+                case 3 -> percentageCalculator();
+                case 4 -> isInteger();
+                case 5 -> greet();
+                default -> {
+                    System.out.println("Invalid no.!");
+                    n = scanner.nextInt();
+                }
+            }
+            System.out.println("Do you wish to continue? 0.Exit 1. Continue");
+            n = scanner.nextInt();
+        }while (n!=0);
+        System.out.println("~~~---~~~---~~~---~~~---~~~---(END OF DAY-1)---~~~---~~~---~~~---~~~---~~~");
+    }
+    //    write a java program to add 3 nos.
     public static void add(){
         System.out.println("Enter first no.: ");
         int a = scanner.nextInt();
@@ -25,26 +54,7 @@ public class Day1 {
         System.out.println("The addition of "+ a + ", "+b+" and "+c+" is: ");
         System.out.println(a+b+c);
     }
-
-    public static void main(String[] args) {
-        int n = 1;
-        do{
-            System.out.println("------MENU-----\n");
-            System.out.println("1. Addition of 3 nos.\n" +
-                    "2. Percentage Calculator\n" +
-                    "3. Percentage Calculator with modification\n");
-            System.out.println("Enter your choice: ");
-            n = scanner.nextInt();
-            switch (n) {
-                case 1 -> add();
-                case 2 -> percentageCalc();
-                case 3 -> percentageCalculator();
-            }
-            System.out.println("Do you wish to continue? 0.Exit 1. Continue");
-            n = scanner.nextInt();
-        }while (n!=0);
-    }
-
+//calculate percentage and also checks validations
     public static void percentageCalculator() {
         int sum = 0;
         int marks = 0;
@@ -89,5 +99,22 @@ public class Day1 {
             System.out.println("Percentage: ");
             System.out.println(((subject1 + subject2 + subject3 + subject4 + subject5 + subject6)/6)+"%");
         }
+    }
+//    check if the entered no. is integer
+    public static void isInteger(){
+        System.out.println("Enter a number: ");
+        try{
+            String input = scanner.next();
+            int n = Integer.parseInt(input);
+            System.out.println("The entered no. is an integer");
+        }catch (Exception e){
+            System.out.println("The entered number is not an integer!");
+        }
+    }
+//    write a java program which asks the user to enter his/her name and greets them
+    public void greet(){
+        System.out.println("Enter your name: ");
+        String name = scanner.next();
+        System.out.println("Hello! "+name+". Have a nice day! :)");
     }
 }
