@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import static java.lang.Character.toUpperCase;
+
 public class Day1 {
     static Scanner scanner = new Scanner(System.in);
 /*    -----------------------------
@@ -72,11 +74,7 @@ public class Day1 {
         System.out.println("Total Percentage: "+(sum/6)+"%");
     }
     public static boolean validation(int marks){
-        if(marks<100 & marks > 0){
-            return true;
-        }else{
-            return false;
-        }
+        return marks < 100 & marks > 0;
     }
 
     //    percentage calculator
@@ -115,6 +113,8 @@ public class Day1 {
     public void greet(){
         System.out.println("Enter your name: ");
         String name = scanner.next();
+        String initial = String.valueOf(toUpperCase(name.charAt(0)));
+        name = initial + name.substring(1);
         System.out.println("Hello! "+name+". Have a nice day! :)");
     }
 }
