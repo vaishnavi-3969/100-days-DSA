@@ -1,25 +1,26 @@
+import Day.DayWiseIndexing;
+import Day.TopicWiseIndexing;
+
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int n = 1;
-        do {
-            System.out.println("Enter the day: ");
+        int n =0;
+        do{
+            System.out.println("----------------MENU----------------");
+            System.out.println("1. Daywise \n2. Topic wise");
             n = scanner.nextInt();
-            switch (n) {
-                case 1 -> {
-                    Day1 day1 = new Day1();
-                    day1.day1();
+            switch (n){
+                case 1-> {
+                    DayWiseIndexing.indexing();
                 }
-                case 2 -> {
-                    Day2 day2 = new Day2();
-                    day2.day2();
+                case 2 ->{
+                    TopicWiseIndexing.indexing();
                 }
-                default -> {
-                    System.out.println("Invalid Input! :(");
-                }
+                default -> System.out.println("INVALID INPUT!");
             }
         }while(n!=0);
     }
 }
+
