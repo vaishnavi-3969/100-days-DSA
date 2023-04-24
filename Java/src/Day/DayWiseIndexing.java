@@ -12,9 +12,12 @@ public class DayWiseIndexing {
         Scanner scanner = new Scanner(System.in);
         int n = 1;
         do {
-            System.out.println("Enter the day: ");
+            System.out.println("Enter the day: [0.Exit]");
             n = scanner.nextInt();
             switch (n) {
+                case 0 -> {
+                    System.out.println("<< Going back to Main Menu");
+                }
                 case 1 -> {
                     Day1 day1 = new Day1();
                     day1.day1();
