@@ -1,0 +1,11 @@
+# ninja log v5
+1	451	7050067930158874	CMakeFiles/Getting_Started.dir/main.cpp.obj	bedc10b99597678c
+454	843	7050067933985595	Getting_Started.exe	ea051d8b1765c58c
+12	459	7050109281283858	CMakeFiles/Getting_Started.dir/main.cpp.obj	bedc10b99597678c
+459	674	7050109283349319	Getting_Started.exe	ea051d8b1765c58c
+4	674	7050109731440887	CMakeFiles/Getting_Started.dir/main.cpp.obj	bedc10b99597678c
+675	916	7050109733819077	Getting_Started.exe	ea051d8b1765c58c
+3	408	7050110437400244	CMakeFiles/Getting_Started.dir/main.cpp.obj	bedc10b99597678c
+408	587	7050110439102568	Getting_Started.exe	ea051d8b1765c58c
+3	452	7050110735751851	CMakeFiles/Getting_Started.dir/main.cpp.obj	bedc10b99597678c
+453	666	7050110737788882	Getting_Started.exe	ea051d8b1765c58c

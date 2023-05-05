@@ -1,5 +1,5 @@
 import Day.DayWiseIndexing;
-import Day.TopicWiseIndexing;
+import Topic.TopicWiseIndexing;
 
 import java.util.Scanner;
 
@@ -15,11 +15,16 @@ public class Main {
                 case 0 -> System.exit(0);
                 case 1 -> {
                     DayWiseIndexing.indexing();
+                    break;
                 }
                 case 2 -> {
                     TopicWiseIndexing.indexing();
+                    break;
                 }
-                default -> System.out.println("INVALID INPUT!");
+                default -> {
+                    System.out.println("INVALID INPUT!");
+                    break;
+                }
             }
         } while (n != 0);
     }
