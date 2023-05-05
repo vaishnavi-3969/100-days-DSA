@@ -85,7 +85,7 @@ int main(){
     age[1] = 35;
     age[2] = 45;
     age[3] = 55;
-    age[4] = 65;
+//    age[4] = 65;
     cout<<"The array age has: "<<AGE_LENGTH<<" elements."<<endl;
     cout <<"age[0]: "<<age[0]<<endl;
     cout <<"age[1]: "<<age[1]<<endl;
