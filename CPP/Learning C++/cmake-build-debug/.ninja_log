@@ -1,5 +1,8 @@
 # ninja log v5
-0	314	7050273479404432	CMakeFiles/Learning_C__.dir/main.cpp.obj	7e681709761e9d94
-316	449	7050273480700571	Learning_C__.exe	2086627760b2802a
 2	349	7050273954055449	CMakeFiles/Learning_C__.dir/main.cpp.obj	7e681709761e9d94
 350	499	7050273955505901	Learning_C__.exe	2086627760b2802a
+3	357	7050280754009077	CMakeFiles/Learning_C__.dir/cow.cpp.obj	e782ba1a1902361f
+9	421	7050280754640552	CMakeFiles/Learning_C__.dir/main.cpp.obj	7e681709761e9d94
+421	597	7050280756327613	Learning_C__.exe	e76749742eda3caf
+5	624	7050281726299277	CMakeFiles/Learning_C__.dir/main.cpp.obj	7e681709761e9d94
+625	801	7050281728029591	Learning_C__.exe	e76749742eda3caf
