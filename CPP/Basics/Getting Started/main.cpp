@@ -2,6 +2,7 @@
 #include <string>
 #include <cstdint>
 #include <cstring>
+#include "cow.h"
 
 #define CAPACITY 5000
 #define DEBUG
@@ -10,28 +11,28 @@
 using namespace std;
 //structure
 //struct cow{
-class cow{
-public:
-    cow(string name_i, int age_i, unsigned char purpose_i){
-        name = name_i;
-        age = age_i;
-        purpose = purpose_i;
-    }
-    string get_name(){
-        return name;
-    }
-    unsigned char get_purpose(){
-        return purpose;
-    }
-    int get_age(){
-        return age;
-    }
-private:
-    string name;
-    int age;
-    unsigned char purpose;
-};
-enum cow_purpose {dairy, meat, hide, pet};
+//class cow{
+//public:
+//    cow(string name_i, int age_i, unsigned char purpose_i){
+//        name = name_i;
+//        age = age_i;
+//        purpose = purpose_i;
+//    }
+//    string get_name(){
+//        return name;
+//    }
+//    unsigned char get_purpose(){
+//        return purpose;
+//    }
+//    int get_age(){
+//        return age;
+//    }
+//private:
+//    string name;
+//    int age;
+//    unsigned char purpose;
+//};
+//enum cow_purpose {dairy, meat, hide, pet};
 //string
 const int LENGTH1 = 25;
 char array_str1[LENGTH1] = "Hey world! ";
@@ -39,7 +40,7 @@ char array_str2[] = "What's up?";
 
 string std_str1 = "Hi everyone! ";
 string std_str2 = "How's the josh? ";
-//declaraing array
+//declaring array
  int age[AGE_LENGTH];
  float temperature[] = {31.5, 32.5,34.5};
 
