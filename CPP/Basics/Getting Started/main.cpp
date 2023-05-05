@@ -8,6 +8,30 @@
 #define AGE_LENGTH 4
 //const int AGE_LENGTH = 4;
 using namespace std;
+//structure
+//struct cow{
+class cow{
+public:
+    cow(string name_i, int age_i, unsigned char purpose_i){
+        name = name_i;
+        age = age_i;
+        purpose = purpose_i;
+    }
+    string get_name(){
+        return name;
+    }
+    unsigned char get_purpose(){
+        return purpose;
+    }
+    int get_age(){
+        return age;
+    }
+private:
+    string name;
+    int age;
+    unsigned char purpose;
+};
+enum cow_purpose {dairy, meat, hide, pet};
 //string
 const int LENGTH1 = 25;
 char array_str1[LENGTH1] = "Hey world! ";
@@ -33,7 +57,16 @@ int32_t sgn;
 uint32_t unsgn;
 
 int main(){
+    //object
+    cow my_cow("Besty",5,dairy);
 
+    //structure
+//    cow my_cow;
+//    my_cow.age = 5;
+//    my_cow.name = "Betsy";
+//    my_cow.purpose = dairy;
+    cout<<my_cow.get_name() << " is a type-" <<(int)my_cow.get_purpose()<<" cow."<<endl;
+    cout<<my_cow.get_name() << " is "<< my_cow.get_age() <<" years old."<<endl;
     //typcasting
     sgn = fit;
     unsgn = sgn;
