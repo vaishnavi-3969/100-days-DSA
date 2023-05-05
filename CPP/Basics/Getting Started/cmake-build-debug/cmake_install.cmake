@@ -1,4 +1,4 @@
-# Install script for directory: D:/github_folder/100-days-DSA/CPP/Getting Started
+# Install script for directory: D:/github_folder/100-days-DSA/CPP/Basics/Getting Started
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/github_folder/100-days-DSA/CPP/Getting Started/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/github_folder/100-days-DSA/CPP/Basics/Getting Started/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

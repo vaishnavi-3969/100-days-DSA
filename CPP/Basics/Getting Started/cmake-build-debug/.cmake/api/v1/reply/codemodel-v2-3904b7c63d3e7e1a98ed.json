@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/github_folder/100-days-DSA/CPP/Getting Started/cmake-build-debug",
-		"source" : "D:/github_folder/100-days-DSA/CPP/Getting Started"
+		"build" : "D:/github_folder/100-days-DSA/CPP/Basics/Getting Started/cmake-build-debug",
+		"source" : "D:/github_folder/100-days-DSA/CPP/Basics/Getting Started"
 	},
 	"version" : 
 	{
