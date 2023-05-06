@@ -1,0 +1,3 @@
+D:/github_folder/100-days-DSA/CPP/Open File for Writing/cmake-build-debug/CMakeFiles/Open_File_for_Writing.dir
+D:/github_folder/100-days-DSA/CPP/Open File for Writing/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github_folder/100-days-DSA/CPP/Open File for Writing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
