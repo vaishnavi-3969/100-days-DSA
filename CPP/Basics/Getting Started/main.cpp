@@ -33,6 +33,7 @@ using namespace std;
 //    unsigned char purpose;
 //};
 //enum cow_purpose {dairy, meat, hide, pet};
+
 //string
 const int LENGTH1 = 25;
 char array_str1[LENGTH1] = "Hey world! ";
