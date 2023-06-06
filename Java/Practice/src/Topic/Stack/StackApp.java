@@ -28,7 +28,7 @@ public class StackApp {
                     break;
                 case 2:
                     stackX.pop();
-                    System.out.println("Ite popped!");
+                    System.out.println("Item popped!");
                     break;
                 case 3:
                     System.out.println("Item at the top: " + stackX.peek());

@@ -38,3 +38,7 @@ public class StackX {
         System.out.println("");
     }
 }
+
+/*
+Items can be both pushed and popped in constant O(1) time
+* */
