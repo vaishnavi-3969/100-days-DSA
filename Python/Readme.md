@@ -92,4 +92,13 @@ Errors can be handled in 3 modes:
 
 Points to remember:
 1. Linear data structure are a type of data structure that store a collection of elements one after the other in a linear sequence
-2. 
+2. a list is a primitive heterogeneous data types(data of diff. types). the data elements are stored in contiguouos memory locations
+3. referential accessing is possible in arrays, as memory blocks are in continuous array & all other blocks can be relatively accessed using formula 'biasing address + no.of blocks'
+4. lists are implemented using classes in python
+5. lists have many operators overloaded with '+' for concatenation adn '*" for repeating an element for 'n' times
+6. strings are lists for characters in python
+7. bytes sequences encode the string and thne save those as bytes
+8. tuples are an immutable list
+
+Python lists: a class in python which is implemented as data structure to store a collection of elements of various different types in a sequential pattern in continouous memory locations
+Primitive data structure: a basic data structure in-built in all programming languages
