@@ -1,0 +1,2 @@
+- Queues are non-primitive data structure, designed with restricted random access
+- stores data in continuous memory location
