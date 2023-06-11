@@ -2,94 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5452d6aa-9df7-46d9-9fcb-33a3ec1773aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/.idea/Basics-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-40097b91627aedcd5d78.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-81775c341e979c9880d2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ec67c0175e80e259fb7f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/reply/index-2023-06-07T11-35-57-0032.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/reply/target-Basics_2-Debug-9458f0b61f2d53f65fb1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b74804df1e20cffdbf45.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/Basics_2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/Basics_2.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Basics-2/main.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/.idea/Getting_Started.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/reply/cache-v2-5b9fdbc089bd10fd9b2d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-12353c61e61ee690cacd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5588421850a185a7878d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/reply/index-2023-06-07T11-18-37-0169.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/reply/target-Getting_Started-Debug-1117a2588981b502c2a7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b74804df1e20cffdbf45.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/Getting_Started.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/Getting_Started.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CPP/Getting_Started/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CPP/Open File for Writing/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPP/Open File for Writing/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100-days-DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kattis/kattis.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,19 +32,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/github_folder/100-days-DSA/Java/Practice 1",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/github_folder/100-days-DSA/Java/Practice 1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Practice 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Practice 1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
