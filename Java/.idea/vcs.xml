@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Character maximum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dynamic Arrays/untitled" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palindrome" vcs="Git" />
   </component>
 </project>
