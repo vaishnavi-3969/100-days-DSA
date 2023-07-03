@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$/Character maximum" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Dynamic Arrays/untitled" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Palindrome" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Remove_Even_Integers_from_Array/Remove Even Integers from an array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reverse array/Reverse Array" vcs="Git" />
   </component>
 </project>
