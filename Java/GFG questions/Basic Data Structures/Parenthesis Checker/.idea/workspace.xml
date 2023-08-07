@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82f12d76-26b5-479d-aa0e-230deac6ba56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dutch Flag Algorithm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dutch Flag Algorithm/.idea/Dutch Flag Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dutch Flag Algorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dutch Flag Algorithm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dutch Flag Algorithm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dutch Flag Algorithm/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dutch Flag Algorithm/out/production/Dutch Flag Algorithm/.idea/Dutch Flag Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find Duplicates in an array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find Duplicates in an array/.idea/Find Duplicates in an array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find Duplicates in an array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find Duplicates in an array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find Duplicates in an array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find Duplicates in an array/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find Duplicates in an array/out/production/Find Duplicates in an array/.idea/Find Duplicates in an array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kadane's algorithm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kadane's algorithm/.idea/Kadane's algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kadane's algorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kadane's algorithm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kadane's algorithm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kadane's algorithm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leaders in an array/.idea/Leaders in an array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leaders in an array/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leaders in an array/out/production/Leaders in an array/.idea/Leaders in an array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majority Element/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majority Element/.idea/Majority Element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majority Element/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majority Element/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majority Element/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Majority Element/Geeks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Missing no. in an array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Missing no. in an array/.idea/Missing no. in an array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Missing no. in an array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Missing no. in an array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Missing no. in an array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Missing no. in an array/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Missing no. in an array/out/production/Missing no. in an array/.idea/Missing no. in an array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subarray with given sum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subarray with given sum/.idea/Subarray with given sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subarray with given sum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subarray with given sum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subarray with given sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subarray with given sum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subarray with given sum/out/production/Subarray with given sum/.idea/Subarray with given sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kth smallest element/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kth smallest element/.idea/kth smallest element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kth smallest element/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kth smallest element/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kth smallest element/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kth smallest element/GFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BinarySearchTree" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BinarySearchTree" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2TB25SrmmhUTL4z72Dncpmj7lO3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "java-dsa",
+    "last_opened_file_path": "D:/github_folder/100-days-DSA/Java/GFG questions/Basic Data Structures/Find min. and max. element in an array",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82f12d76-26b5-479d-aa0e-230deac6ba56" name="Changes" comment="" />
+      <created>1690501969312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690501969312</updated>
+      <workItem from="1690501970551" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
