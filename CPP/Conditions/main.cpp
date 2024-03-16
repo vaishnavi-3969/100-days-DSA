@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    int n ;
+int main(){
+    int n;
     cout <<"Enter a number: ";
-//    cin >> n;
-    n = cin.get();
+    cin >> n;
+//    int n = cin.get();
     cout << "Number entered: "<<" "<< n << endl;
     if(n > 0){
         cout<<"greater than 0";
